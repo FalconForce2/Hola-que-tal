@@ -1,0 +1,17 @@
+{
+	id: "a0a34cbe-d185-376f-b3d7-6d1b8b24f1ab"
+	type: "player"
+	player_name: "LeeMinhi"
+	ranks: {
+		a0a34cbe-d185-376f-b3d7-6d1b8b24f1ab: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "LeeMinhi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

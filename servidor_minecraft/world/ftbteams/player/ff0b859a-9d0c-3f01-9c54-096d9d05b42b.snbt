@@ -1,0 +1,17 @@
+{
+	id: "ff0b859a-9d0c-3f01-9c54-096d9d05b42b"
+	type: "player"
+	player_name: "FalconForce"
+	ranks: {
+		ff0b859a-9d0c-3f01-9c54-096d9d05b42b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FalconForce"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
